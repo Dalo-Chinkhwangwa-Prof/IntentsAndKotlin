@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">IntentsApp</string>
+    <string name="press_me_text">Press Me</string>
+</resources>
